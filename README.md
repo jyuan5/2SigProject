@@ -19,7 +19,7 @@ Our data set consists of responses from various New Yorkers, most of which are o
 Our data comes from a survey we conducted, which we posted in school Facebook groups and on our walls. 
 
 **How much data do you have?** 
-As of 12:56 AM, 12/18/2017, we have 53 responses (including 
+As of 12:56 AM, 12/18/2017, we have 53 responses. As of 1:40 AM, 12/20/2017, we have 118 responses, including a few that were ommitted from the analyses.
 
 **What time range is covered?**
 As of 12:56 AM, 12/18/2017, it has only been approximately 2 hours. 
@@ -31,20 +31,19 @@ We had to clear out the responses that were not up to standards (for example, so
 The way we dealt with the hobbies people had was one bias. We're doing this based on an assumption that humans unconsciously list things in an order of perference. However, we aren't sure if that truely is the case. Another bias we had were our spheres of influence. Most of our responses are from Stuyvesant High School, which limits the age range and audience for this data. Because of this limitation, we are unable to extrapolate this data to accurately represent New Yorkers in general. Therefore, our conclusion, while directly received from the surveyed people, may be skewed due to factors unaccounted for, including ambiguous responses and sample size and type.
 
 **What methods did you use to answer your questions?**
-
+We created a survey using Google Forms to gather data. Then, we interpreted the relationship between the variables to determine the answer to our question. The analysis of the data is largely dependent on the sample size and type. We analyzed the data by..
 
 **What statistics do you have that support or refute your hypothesis?**
 
 
 **The results support the hypothesis because…**
-
+the circos graph and the statistics resulting from ... suggest that ....
 
 **Alternative interpretations of the results are…** 
+that the results are due to the culture of a specific grouping of students, rather than the entire age group or New York's interests.
 
-
-**The limitations of this method were…**
-
+**The limitations of this method included…**
+the fact that we were unable to gather as much data as we could have if we had chosen to use preexisting data sets from other sources, which may be larger and more accurate.
 
 **More data science that you didn’t have time to do!**
-
-
+Hahah.
